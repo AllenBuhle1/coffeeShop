@@ -1,0 +1,17 @@
+@import url(/src/reset.css);
+.content {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.items {
+  width: 90%;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.coffeeTitle {
+  color: #815518;
+  margin: 1.5em 0 0.5em 3.5em;
+}
