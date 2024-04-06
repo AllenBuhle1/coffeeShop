@@ -5,9 +5,6 @@ This is a project I created to exercise my design and development skills
 ## Table of contents
 
 ## Overview
-
-When done this should be a fullstack app where the user can buy me coffee(donate).
-
 ### Screenshot
 
 ![ScreenShot Of The Site](./screenShot.png)
