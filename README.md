@@ -1,6 +1,6 @@
-# Purpose
+# Coffee Shop
 
-This is a project I created to exercise my design and development skills
+This is a online coffee shop front end only no back end. This is a project I created to exercise my design and development skills
 
 ## Table of contents
 
